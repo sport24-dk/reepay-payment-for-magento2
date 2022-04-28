@@ -696,7 +696,7 @@ class Data extends AbstractHelper
 
             return  $transaction->getTransactionId();
         } catch (\Exception $e) {
-            throw new \Magento\framework\Exception\PaymentException(__('addTransactionToOrder() Exception : ' . $e->getMessage()));
+            throw new \Magento\Framework\Exception\PaymentException(__('addTransactionToOrder() Exception : ' . $e->getMessage()));
 
             return;
         }
