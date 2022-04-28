@@ -1,12 +1,12 @@
 {
-    "name": "radarsofthouse/reepay",
+    "name": "sport24/reepay",
     "description": "Reepay payment for Magento 2",
     "type": "magento2-module",
-    "version": "1.2.20",
+    "version": "1.2.22",
     "authors": [
         {
-            "email": "info@radarsofthouse.dk",
-            "name": "Radarsofthouse"
+            "email": "mam@sport24.dk",
+            "name": "Mads Amby"
         }
     ],
     "minimum-stability": "dev",
